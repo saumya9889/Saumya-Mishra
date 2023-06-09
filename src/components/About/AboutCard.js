@@ -10,11 +10,10 @@ function AboutCard() {
           <p style={{ textAlign: "justify" }}>
             Hi Everyone, I am <span className="purple">Saumya Mishra</span>
             from <span className="purple"> Gorakhpur, India.</span>
-            <br /> I am a final year student pursuing an Integrated MSc (IMSc)
-            in Maths and Computing at BIT Mesra.
+            <br /> I am a second year student pursuing  MCA
+             and Computing at GD Goenka University.
             <br />
-            Additionally, I am currently employed as a software developer at
-            Juspay.
+            I am a frontend web developer. I can provide clean code and pixel perfect design. I also make website more & more interactive with web animations.
             <br />
             <br />
             Apart from coding, some other activities that I love to do!
