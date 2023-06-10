@@ -19,27 +19,31 @@ import {
 } from "react-icons/si";
 import { TbBrandGolang } from "react-icons/tb";
 
-
 function Techstack() {
-
-
   return (
     <Row style={{ justifyContent: "center", paddingBottom: "50px" }}>
       <Col xs={4} md={2} className="tech-icons">
-        <DiJavascript1 />
-      </Col> 
+        <CgCPlusPlus />
+      </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <DiReact />
-      </Col> 
+        <DiJavascript1 />
+      </Col>
+      
+     
+      
       <Col xs={4} md={2} className="tech-icons">
         <DiMongodb />
-      </Col> 
+      </Col>
+      
       <Col xs={4} md={2} className="tech-icons">
         <DiGit />
-      </Col> 
+      </Col>
+
+      
+      
       <Col xs={4} md={2} className="tech-icons">
-        <DiPython />
-      </Col> 
+        <DiJava />
+      </Col>
     </Row>
   );
 }

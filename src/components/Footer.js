@@ -14,16 +14,16 @@ function Footer() {
     <Container fluid className="footer">
       <Row>
         <Col md="4" className="footer-copywright">
-          <h3>Designed and Developed by Saumya Mishra</h3>
+          <h3>Designed and Developed by Piyush Agarwal</h3>
         </Col>
         <Col md="4" className="footer-copywright">
-          <h3>Copyright © {year} SM</h3>
+          <h3>Copyright © {year} PA</h3>
         </Col>
         <Col md="4" className="footer-body">
           <ul className="footer-icons">
             <li className="social-icons">
               <a
-                href="https://github.com/saumya9889"
+                href="https://github.com/Piyush73710"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"
@@ -31,19 +31,10 @@ function Footer() {
                 <AiFillGithub />
               </a>
             </li>
+            
             <li className="social-icons">
               <a
-                href="https://twitter.com/softy_girl_sam"
-                style={{ color: "white" }}
-                target="_blank" 
-                rel="noopener noreferrer"
-              >
-                <AiOutlineTwitter />
-              </a>
-            </li>
-            <li className="social-icons">
-              <a
-                href="https://www.linkedin.com/in/saumya-mishra-390652176"
+                href="https://www.linkedin.com/in/piyush-agarwal-11a916278"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"
@@ -53,7 +44,7 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href="https://www.instagram.com/sam__mishra__/"
+                href="https://www.instagram.com/royl_prince_55"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"
