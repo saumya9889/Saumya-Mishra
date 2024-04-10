@@ -17,7 +17,7 @@ function AboutCard() {
              <br/>creating visually appealing and responsive web interfaces. 
              <br/> I’m on a journey to turn my passionfor coding into beautiful, user-centric websites.
              <br/>
-             When not working on projects, you can find me 
+             Apart from coding, some other activities that I love to do! 
           </p>
           <ul>
             <li className="about-activity">
